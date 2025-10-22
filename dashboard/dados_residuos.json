@@ -1,0 +1,328 @@
+{
+  "kpis": {
+    "total_residuos": 0,
+    "tipos_residuos": 20,
+    "maior_gerador_codigo": "200136",
+    "maior_gerador_quantidade": 0,
+    "total_lancamentos": 5
+  },
+  "lancamentos": [
+    {
+      "codigo": "160117",
+      "descricao": "",
+      "quantidade": 8.7,
+      "data": "2024-07-15",
+      "destinacao": "Reciclagem",
+      "observacoes": "Sucata ferrosa"
+    },
+    {
+      "codigo": "200101",
+      "descricao": "",
+      "quantidade": 140.0,
+      "data": "2024-07-20",
+      "destinacao": "Reciclagem",
+      "observacoes": "Papel de escritório"
+    },
+    {
+      "codigo": "D001",
+      "descricao": "",
+      "quantidade": 25.5,
+      "data": "2024-08-10",
+      "destinacao": "Coprocessamento",
+      "observacoes": "Óleo usado de máquinas"
+    },
+    {
+      "codigo": "200139",
+      "descricao": "",
+      "quantidade": 105.0,
+      "data": "2024-08-22",
+      "destinacao": "Reciclagem",
+      "observacoes": "Embalagens plásticas"
+    },
+    {
+      "codigo": "A020",
+      "descricao": "",
+      "quantidade": 150.3,
+      "data": "2024-09-05",
+      "destinacao": "Reciclagem",
+      "observacoes": "Sucata de aço"
+    }
+  ],
+  "resumo": [
+    {
+      "codigo": "200136",
+      "descricao": "Produtos eletrônicos e seus componentes fora de uso não abrangidos em 20 01 21 20 01 23 ou 20 01 35 (*)",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "160117",
+      "descricao": "Sucatas metálicas ferrosas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "120101",
+      "descricao": "Aparas e limalhas de metais ferrosos",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "160107",
+      "descricao": "Resíduos oleosos",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "150202(1)",
+      "descricao": "Absorventes, materiais filtrantes (incluindo filtros de óleo não anteriormente especificados), panos de limpeza e vestuário de proteção, contaminados por substâncias perigosas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "150110(1)",
+      "descricao": "Embalagens de qualquer um dos tipos acima descritos, contaminados por ou contendo resíduos de substâncias perigosas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200121(1)",
+      "descricao": "Lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200136",
+      "descricao": "Produtos eletrônicos e seus componentes fora de uso não abrangidos em 20 01 21 20 01 23 ou 20 01 35 (*)",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "170407",
+      "descricao": "Mistura de sucatas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200101",
+      "descricao": "Papel e papelão",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200139",
+      "descricao": "Plástico",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200108",
+      "descricao": "Resíduo orgânico",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "D001",
+      "descricao": "Óleo lubrificante usado",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "A020",
+      "descricao": "Sucata metálica",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "B015",
+      "descricao": "Lodo de pintura",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "C100",
+      "descricao": "Embalagens contaminadas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "E050",
+      "descricao": "Resíduo de solda",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "F200",
+      "descricao": "EPI contaminado",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "G300",
+      "descricao": "Filtros industriais",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "H400",
+      "descricao": "Resíduo de madeira",
+      "quantidade_total": 0,
+      "percentual": 0
+    }
+  ],
+  "top10": [
+    {
+      "codigo": "200136",
+      "descricao": "Produtos eletrônicos e seus componentes fora de uso não abrangidos em 20 01 21 20 01 23 ou 20 01 35 (*)",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "160117",
+      "descricao": "Sucatas metálicas ferrosas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "120101",
+      "descricao": "Aparas e limalhas de metais ferrosos",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "160107",
+      "descricao": "Resíduos oleosos",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "150202(1)",
+      "descricao": "Absorventes, materiais filtrantes (incluindo filtros de óleo não anteriormente especificados), panos de limpeza e vestuário de proteção, contaminados por substâncias perigosas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "150110(1)",
+      "descricao": "Embalagens de qualquer um dos tipos acima descritos, contaminados por ou contendo resíduos de substâncias perigosas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200121(1)",
+      "descricao": "Lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200136",
+      "descricao": "Produtos eletrônicos e seus componentes fora de uso não abrangidos em 20 01 21 20 01 23 ou 20 01 35 (*)",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "170407",
+      "descricao": "Mistura de sucatas",
+      "quantidade_total": 0,
+      "percentual": 0
+    },
+    {
+      "codigo": "200101",
+      "descricao": "Papel e papelão",
+      "quantidade_total": 0,
+      "percentual": 0
+    }
+  ],
+  "cadastro": [
+    {
+      "codigo": "200136",
+      "descricao": "Produtos eletrônicos e seus componentes fora de uso não abrangidos em 20 01 21 20 01 23 ou 20 01 35 (*)"
+    },
+    {
+      "codigo": "160117",
+      "descricao": "Sucatas metálicas ferrosas"
+    },
+    {
+      "codigo": "120101",
+      "descricao": "Aparas e limalhas de metais ferrosos"
+    },
+    {
+      "codigo": "160107",
+      "descricao": "Resíduos oleosos"
+    },
+    {
+      "codigo": "150202(1)",
+      "descricao": "Absorventes, materiais filtrantes (incluindo filtros de óleo não anteriormente especificados), panos de limpeza e vestuário de proteção, contaminados por substâncias perigosas"
+    },
+    {
+      "codigo": "150110(1)",
+      "descricao": "Embalagens de qualquer um dos tipos acima descritos, contaminados por ou contendo resíduos de substâncias perigosas"
+    },
+    {
+      "codigo": "200121(1)",
+      "descricao": "Lâmpadas fluorescentes, de vapor de sódio e mercúrio e de luz mista"
+    },
+    {
+      "codigo": "200136",
+      "descricao": "Produtos eletrônicos e seus componentes fora de uso não abrangidos em 20 01 21 20 01 23 ou 20 01 35 (*)"
+    },
+    {
+      "codigo": "170407",
+      "descricao": "Mistura de sucatas"
+    },
+    {
+      "codigo": "200101",
+      "descricao": "Papel e papelão"
+    },
+    {
+      "codigo": "200139",
+      "descricao": "Plástico"
+    },
+    {
+      "codigo": "200108",
+      "descricao": "Resíduo orgânico"
+    },
+    {
+      "codigo": "D001",
+      "descricao": "Óleo lubrificante usado"
+    },
+    {
+      "codigo": "A020",
+      "descricao": "Sucata metálica"
+    },
+    {
+      "codigo": "B015",
+      "descricao": "Lodo de pintura"
+    },
+    {
+      "codigo": "C100",
+      "descricao": "Embalagens contaminadas"
+    },
+    {
+      "codigo": "E050",
+      "descricao": "Resíduo de solda"
+    },
+    {
+      "codigo": "F200",
+      "descricao": "EPI contaminado"
+    },
+    {
+      "codigo": "G300",
+      "descricao": "Filtros industriais"
+    },
+    {
+      "codigo": "H400",
+      "descricao": "Resíduo de madeira"
+    }
+  ],
+  "destinacoes": [
+    {
+      "destinacao": "Reciclagem",
+      "quantidade": 404.0
+    },
+    {
+      "destinacao": "Coprocessamento",
+      "quantidade": 25.5
+    }
+  ],
+  "ultima_atualizacao": "2025-10-21 22:13:25"
+}
